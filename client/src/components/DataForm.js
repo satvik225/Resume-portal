@@ -69,7 +69,7 @@ const DataForm = () => {
         type="text"
         onChange={(e) => setRollno(e.target.value)}
         value={Rollno}
-        className={emptyFields.includes('Rollno') ? 'error' : ''} placeholder="eg. LCS2021017"
+        className={emptyFields.includes('Rollno') ? 'error' : ''} placeholder="eg : LCS2021017"
       /></center>
 
 <center><label>Enter Your Batch Year :</label></center>
