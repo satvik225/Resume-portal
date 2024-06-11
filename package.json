@@ -9,7 +9,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Satvik Dubey",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
